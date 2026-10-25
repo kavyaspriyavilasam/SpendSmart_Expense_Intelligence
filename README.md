@@ -4,13 +4,11 @@ A Power BI dashboard project that analyzes personal expenses using a sample data
 
 Dashboard Preview
 
-Page 1 — Expense Intelligence
+### Page 1 — Expense Intelligence
+![SpendSmart Overview](./SpendSmart_Overview.png)
 
-"SpendSmart Overview" (SpendSmart_Overview.png)
-
-Page 2 — Expense Breakdown
-
-"SpendSmart Expense Analysis" (SpendSmart_Expense_Analysis.png)
+### Page 2 — Expense Breakdown
+![SpendSmart Expense Analysis](./SpendSmart_Expense_Analysis.png)
 
 Project Overview
 

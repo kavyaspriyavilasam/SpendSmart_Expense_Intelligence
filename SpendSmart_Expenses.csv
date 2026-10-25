@@ -1,0 +1,73 @@
+Date,Category,Subcategory,Merchant_Type,Amount_INR,Payment_Method
+2026-01-02,Food,Groceries,Supermarket,1850,UPI
+2026-01-04,Transport,Bus/Metro,Travel,420,UPI
+2026-01-06,Education,Books & Supplies,College,950,Card
+2026-01-08,Bills,Mobile Recharge,Utilities,299,UPI
+2026-01-10,Food,Eating Out,Restaurant,380,Cash
+2026-01-12,Shopping,Clothing,Retail,1299,UPI
+2026-01-15,Health,Medicine & Care,Pharmacy,460,UPI
+2026-01-18,Transport,Auto/Cab,Travel,310,Cash
+2026-01-20,Food,Groceries,Supermarket,1420,UPI
+2026-01-23,Entertainment,Movies & Events,Leisure,550,Card
+2026-01-25,Bills,Internet,Utilities,499,UPI
+2026-01-28,Personal Care,Personal Care,Retail,620,UPI
+2026-02-01,Food,Groceries,Supermarket,2100,UPI
+2026-02-03,Transport,Bus/Metro,Travel,480,UPI
+2026-02-05,Education,Online Learning,College,799,Card
+2026-02-07,Bills,Mobile Recharge,Utilities,299,UPI
+2026-02-09,Food,Eating Out,Restaurant,460,UPI
+2026-02-11,Shopping,Accessories,Retail,850,UPI
+2026-02-14,Entertainment,Subscriptions,Leisure,299,Card
+2026-02-17,Transport,Auto/Cab,Travel,390,Cash
+2026-02-19,Food,Groceries,Supermarket,1680,UPI
+2026-02-22,Health,Medicine & Care,Pharmacy,350,UPI
+2026-02-25,Bills,Internet,Utilities,499,UPI
+2026-02-27,Personal Care,Personal Care,Retail,740,UPI
+2026-03-02,Food,Groceries,Supermarket,1950,UPI
+2026-03-04,Transport,Bus/Metro,Travel,510,UPI
+2026-03-06,Education,Books & Supplies,College,1250,Card
+2026-03-08,Bills,Mobile Recharge,Utilities,299,UPI
+2026-03-10,Food,Eating Out,Restaurant,520,UPI
+2026-03-12,Shopping,Clothing,Retail,1750,UPI
+2026-03-15,Health,Medicine & Care,Pharmacy,680,UPI
+2026-03-18,Transport,Auto/Cab,Travel,430,Cash
+2026-03-20,Food,Groceries,Supermarket,1780,UPI
+2026-03-22,Entertainment,Movies & Events,Leisure,650,Card
+2026-03-25,Bills,Internet,Utilities,499,UPI
+2026-03-28,Personal Care,Personal Care,Retail,590,UPI
+2026-04-01,Food,Groceries,Supermarket,2250,UPI
+2026-04-03,Transport,Bus/Metro,Travel,540,UPI
+2026-04-05,Education,Online Learning,College,999,Card
+2026-04-07,Bills,Mobile Recharge,Utilities,299,UPI
+2026-04-09,Food,Eating Out,Restaurant,610,UPI
+2026-04-11,Shopping,Accessories,Retail,1150,UPI
+2026-04-14,Entertainment,Subscriptions,Leisure,399,Card
+2026-04-17,Transport,Auto/Cab,Travel,460,Cash
+2026-04-19,Food,Groceries,Supermarket,1900,UPI
+2026-04-22,Health,Medicine & Care,Pharmacy,520,UPI
+2026-04-25,Bills,Internet,Utilities,499,UPI
+2026-04-28,Personal Care,Personal Care,Retail,810,UPI
+2026-05-02,Food,Groceries,Supermarket,2350,UPI
+2026-05-04,Transport,Bus/Metro,Travel,580,UPI
+2026-05-06,Education,Books & Supplies,College,890,Card
+2026-05-08,Bills,Mobile Recharge,Utilities,299,UPI
+2026-05-10,Food,Eating Out,Restaurant,720,UPI
+2026-05-12,Shopping,Clothing,Retail,1990,UPI
+2026-05-15,Health,Medicine & Care,Pharmacy,440,UPI
+2026-05-18,Transport,Auto/Cab,Travel,510,Cash
+2026-05-20,Food,Groceries,Supermarket,2050,UPI
+2026-05-23,Entertainment,Movies & Events,Leisure,750,Card
+2026-05-25,Bills,Internet,Utilities,499,UPI
+2026-05-28,Personal Care,Personal Care,Retail,680,UPI
+2026-06-01,Food,Groceries,Supermarket,2450,UPI
+2026-06-03,Transport,Bus/Metro,Travel,620,UPI
+2026-06-05,Education,Online Learning,College,1299,Card
+2026-06-07,Bills,Mobile Recharge,Utilities,299,UPI
+2026-06-09,Food,Eating Out,Restaurant,680,UPI
+2026-06-11,Shopping,Accessories,Retail,1390,UPI
+2026-06-14,Entertainment,Subscriptions,Leisure,399,Card
+2026-06-17,Transport,Auto/Cab,Travel,560,Cash
+2026-06-19,Food,Groceries,Supermarket,2150,UPI
+2026-06-22,Health,Medicine & Care,Pharmacy,760,UPI
+2026-06-25,Bills,Internet,Utilities,499,UPI
+2026-06-28,Personal Care,Personal Care,Retail,920,UPI
